@@ -3,3 +3,6 @@
 # Example .gitignore files: https://github.com/github/gitignore
 /bower_components/
 /node_modules/
+/ch02/02-analyze/node_modules/
+/ch02/01-download/angular.html
+/ch02/01-download/spring.html
